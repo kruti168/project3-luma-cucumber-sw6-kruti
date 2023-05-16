@@ -1,0 +1,304 @@
+2023-05-14 11:05:248 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:880 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:448 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:856 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:215 INFO  WomenPage :35 - Click on jackets
+2023-05-14 11:05:304 INFO  WomenPage :35 - Click on jackets
+2023-05-14 11:05:22 INFO  WomenPage :35 - Click on jackets
+2023-05-14 11:05:132 INFO  WomenPage :35 - Click on jackets
+2023-05-14 11:05:144 INFO  WomenPage :35 - Click on jackets
+2023-05-14 11:05:478 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:193 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:13 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:500 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:944 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:488 INFO  WomenPage :34 - Click on jackets
+2023-05-14 11:05:955 INFO  WomenPage :34 - Click on jackets
+2023-05-14 12:05:428 INFO  HomePage :62 - Mouse hoover on women menu
+2023-05-14 12:05:595 INFO  HomePage :71 - Mouse hoover on men menu
+2023-05-14 12:05:179 INFO  MenPage :72 - Click on Pants
+2023-05-14 12:05:645 INFO  MenPage :86 - Mouse hover on Cronus yoga pant and click on Size 32
+2023-05-14 12:05:894 INFO  MenPage :95 - Mouse hoover on yoga pants and click on  black
+2023-05-14 12:05:134 INFO  MenPage :104 - Click on Add to cart
+2023-05-14 12:05:232 INFO  MenPage :115 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (0e0b66c36aa9580803b4177289b404c9)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]
+2023-05-14 12:05:281 INFO  MenPage :124 - Click on shopping cart
+2023-05-14 12:05:55 INFO  HomePage :62 - Mouse hoover on women menu
+2023-05-14 12:05:234 INFO  HomePage :71 - Mouse hoover on men menu
+2023-05-14 12:05:925 INFO  MenPage :72 - Click on Pants
+2023-05-14 12:05:289 INFO  MenPage :86 - Mouse hover on Cronus yoga pant and click on Size 32
+2023-05-14 12:05:480 INFO  MenPage :95 - Mouse hoover on yoga pants and click on  black
+2023-05-14 12:05:690 INFO  MenPage :104 - Click on Add to cart
+2023-05-14 12:05:180 INFO  MenPage :115 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (d4080f52fead1238abb51932aa060707)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]
+2023-05-14 12:05:761 INFO  MenPage :124 - Click on shopping cart
+2023-05-14 12:05:659 INFO  MenPage :135 - Verify the text 'Shopping Cart.[[ChromeDriver: chrome on WINDOWS (d4080f52fead1238abb51932aa060707)] -> xpath: //span[text()='Shopping Cart']]
+2023-05-14 12:05:990 INFO  MenPage :146 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (d4080f52fead1238abb51932aa060707)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]
+2023-05-14 12:05:265 INFO  MenPage :158 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (d4080f52fead1238abb51932aa060707)] -> xpath: //dd[contains(text(),'32')]]
+2023-05-14 12:05:343 INFO  MenPage :169 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (d4080f52fead1238abb51932aa060707)] -> xpath: //dd[contains(text(),'Black')]]
+2023-05-14 12:05:34 INFO  WomenPage :34 - Click on jackets
+2023-05-14 12:05:837 INFO  WomenPage :34 - Click on jackets
+2023-05-14 15:05:660 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-14 15:05:993 INFO  GearPage :76 - Click on Bags<br>
+2023-05-14 15:05:695 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-14 15:05:102 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-14 15:05:639 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (50a5e5fc7962283755cbf11670931c62)] -> xpath: //input[@id='qty']]<br>
+2023-05-14 15:05:796 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-14 15:05:734 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (50a5e5fc7962283755cbf11670931c62)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:856 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:185 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (50a5e5fc7962283755cbf11670931c62)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-14 15:05:966 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (50a5e5fc7962283755cbf11670931c62)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-14 15:05:84 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-14 15:05:277 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (50a5e5fc7962283755cbf11670931c62)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-14 15:05:532 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 15:05:692 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 15:05:954 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 15:05:138 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:271 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 15:05:368 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 15:05:553 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:806 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (06d9adefd913f3c166155c512f6b0f0a)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:97 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:212 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 15:05:404 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 15:05:299 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 15:05:501 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:643 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 15:05:799 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 15:05:984 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:697 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (43349c37542b9f55a8c9c2e6d3a1c12c)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:330 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:849 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (43349c37542b9f55a8c9c2e6d3a1c12c)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-14 15:05:194 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (43349c37542b9f55a8c9c2e6d3a1c12c)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-14 15:05:475 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (43349c37542b9f55a8c9c2e6d3a1c12c)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-14 15:05:520 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (43349c37542b9f55a8c9c2e6d3a1c12c)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-14 15:05:960 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 15:05:663 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 15:05:932 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-14 15:05:768 INFO  WomenPage :34 - Click on jackets
+2023-05-14 15:05:122 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-14 15:05:458 INFO  GearPage :76 - Click on Bags<br>
+2023-05-14 15:05:978 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-14 15:05:419 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-14 15:05:03 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (d61f585aa08b05f2886da29249f0a3fa)] -> xpath: //input[@id='qty']]<br>
+2023-05-14 15:05:162 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-14 15:05:682 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (d61f585aa08b05f2886da29249f0a3fa)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:841 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:97 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (d61f585aa08b05f2886da29249f0a3fa)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-14 15:05:845 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (d61f585aa08b05f2886da29249f0a3fa)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-14 15:05:968 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-14 15:05:402 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (d61f585aa08b05f2886da29249f0a3fa)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-14 15:05:793 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 15:05:950 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 15:05:474 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 15:05:662 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:793 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 15:05:900 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 15:05:110 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:913 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (989d6b5686bdf9bce2b11b4ad1c2bf0c)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:418 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:795 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (989d6b5686bdf9bce2b11b4ad1c2bf0c)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-14 15:05:386 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (989d6b5686bdf9bce2b11b4ad1c2bf0c)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-14 15:05:657 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (989d6b5686bdf9bce2b11b4ad1c2bf0c)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-14 15:05:698 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (989d6b5686bdf9bce2b11b4ad1c2bf0c)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-14 15:05:15 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 15:05:172 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-14 15:05:925 INFO  WomenPage :34 - Click on jackets
+2023-05-14 15:05:975 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 15:05:166 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 15:05:29 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 15:05:247 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:428 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 15:05:571 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 15:05:769 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 15:05:839 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (819c3f595258ef7af7704fb65ace93e0)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:515 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:489 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 15:05:489 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-14 15:05:849 INFO  GearPage :76 - Click on Bags<br>
+2023-05-14 15:05:680 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-14 15:05:153 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-14 15:05:749 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (00168c32c5d407a47aa41b9cba590f3d)] -> xpath: //input[@id='qty']]<br>
+2023-05-14 15:05:879 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-14 15:05:393 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (00168c32c5d407a47aa41b9cba590f3d)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 15:05:938 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 15:05:210 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (00168c32c5d407a47aa41b9cba590f3d)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-14 15:05:205 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (00168c32c5d407a47aa41b9cba590f3d)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-14 15:05:380 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-14 15:05:506 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (00168c32c5d407a47aa41b9cba590f3d)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-14 15:05:969 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 15:05:613 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 15:05:140 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-14 15:05:936 INFO  GearPage :76 - Click on Bags<br>
+2023-05-14 15:05:94 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-14 15:05:694 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-14 16:05:394 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (5936972f3ee824b648b95e4c20460b0f)] -> xpath: //input[@id='qty']]<br>
+2023-05-14 16:05:641 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-14 16:05:517 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (5936972f3ee824b648b95e4c20460b0f)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 16:05:775 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 16:05:224 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (5936972f3ee824b648b95e4c20460b0f)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-14 16:05:978 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (5936972f3ee824b648b95e4c20460b0f)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-14 16:05:79 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-14 16:05:609 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (5936972f3ee824b648b95e4c20460b0f)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-14 16:05:215 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 16:05:387 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 16:05:205 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 16:05:408 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 16:05:568 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 16:05:689 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 16:05:898 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 16:05:993 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (b4b623c48b1588c8523a0b39b70e5d71)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 16:05:507 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 16:05:362 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 16:05:513 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 16:05:967 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 16:05:171 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 16:05:302 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 16:05:416 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 16:05:658 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 16:05:330 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (99f66e5d5337d040fd13258cee0b0ec7)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 16:05:379 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 16:05:845 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (99f66e5d5337d040fd13258cee0b0ec7)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-14 16:05:296 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (99f66e5d5337d040fd13258cee0b0ec7)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-14 16:05:455 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (99f66e5d5337d040fd13258cee0b0ec7)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-14 16:05:492 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (99f66e5d5337d040fd13258cee0b0ec7)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-14 16:05:95 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:541 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:24 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:237 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:414 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-14 16:05:547 INFO  WomenPage :34 - Click on jackets
+2023-05-14 16:05:835 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:420 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 16:05:600 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-14 16:05:764 INFO  WomenPage :34 - Click on jackets
+2023-05-14 17:05:349 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-14 17:05:791 INFO  GearPage :76 - Click on Bags<br>
+2023-05-14 17:05:752 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-14 17:05:168 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-14 17:05:873 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (3a8a992fd2a49ace69d7bd630184c0f3)] -> xpath: //input[@id='qty']]<br>
+2023-05-14 17:05:117 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-14 17:05:340 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (3a8a992fd2a49ace69d7bd630184c0f3)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 17:05:763 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 17:05:49 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (3a8a992fd2a49ace69d7bd630184c0f3)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-14 17:05:841 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (3a8a992fd2a49ace69d7bd630184c0f3)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-14 17:05:979 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-14 17:05:823 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (3a8a992fd2a49ace69d7bd630184c0f3)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-14 17:05:711 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-14 17:05:871 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-14 17:05:533 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-14 17:05:775 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 17:05:30 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-14 17:05:167 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-14 17:05:376 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-14 17:05:574 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (3ecc20fdf053cd09abfe9a799481f9c4)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-14 17:05:294 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-14 17:05:712 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (3ecc20fdf053cd09abfe9a799481f9c4)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-14 17:05:26 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (3ecc20fdf053cd09abfe9a799481f9c4)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-14 17:05:302 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (3ecc20fdf053cd09abfe9a799481f9c4)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-14 17:05:366 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (3ecc20fdf053cd09abfe9a799481f9c4)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-14 17:05:174 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-14 17:05:342 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-14 17:05:142 INFO  WomenPage :34 - Click on jackets
+2023-05-15 21:05:803 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-15 21:05:991 INFO  GearPage :76 - Click on Bags<br>
+2023-05-15 21:05:52 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-15 21:05:225 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-15 21:05:835 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (b5ba8079b87ca8c18b1e9edc6d83f619)] -> xpath: //input[@id='qty']]<br>
+2023-05-15 21:05:60 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-15 21:05:573 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (b5ba8079b87ca8c18b1e9edc6d83f619)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-15 21:05:467 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-15 21:05:728 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (b5ba8079b87ca8c18b1e9edc6d83f619)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-15 21:05:329 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (b5ba8079b87ca8c18b1e9edc6d83f619)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-15 21:05:399 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-15 21:05:177 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (b5ba8079b87ca8c18b1e9edc6d83f619)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-15 21:05:199 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-15 21:05:383 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-15 21:05:805 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-15 21:05:987 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-15 21:05:53 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-15 21:05:115 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-15 21:05:293 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-15 21:05:375 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (374fc6ac163966351dc2c388fb7162f7)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-15 21:05:336 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-15 21:05:822 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (374fc6ac163966351dc2c388fb7162f7)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-15 21:05:222 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (374fc6ac163966351dc2c388fb7162f7)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-15 21:05:467 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (374fc6ac163966351dc2c388fb7162f7)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-15 21:05:529 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (374fc6ac163966351dc2c388fb7162f7)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-15 21:05:870 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-15 21:05:32 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-15 21:05:393 INFO  WomenPage :34 - Click on jackets
+2023-05-16 00:05:14 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-16 00:05:219 INFO  GearPage :76 - Click on Bags<br>
+2023-05-16 00:05:231 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 00:05:486 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 00:05:876 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (8c974d7ab2f15ab71b61db2acf2f60a9)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 00:05:980 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 00:05:365 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (8c974d7ab2f15ab71b61db2acf2f60a9)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:847 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:36 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (8c974d7ab2f15ab71b61db2acf2f60a9)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 00:05:503 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (8c974d7ab2f15ab71b61db2acf2f60a9)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 00:05:581 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 00:05:177 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (8c974d7ab2f15ab71b61db2acf2f60a9)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 00:05:805 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-16 00:05:960 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-16 00:05:138 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-16 00:05:331 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:438 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-16 00:05:525 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-16 00:05:705 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:558 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (2c223e42a964246d6db7a10d714576c5)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:470 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:318 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-16 00:05:477 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-16 00:05:798 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-16 00:05:971 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:41 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-16 00:05:104 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-16 00:05:263 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:283 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (99de981d5347b6807d7116b37c03f768)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:24 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:256 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (99de981d5347b6807d7116b37c03f768)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-16 00:05:589 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (99de981d5347b6807d7116b37c03f768)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-16 00:05:814 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (99de981d5347b6807d7116b37c03f768)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-16 00:05:854 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (99de981d5347b6807d7116b37c03f768)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-16 00:05:795 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-16 00:05:990 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-16 00:05:140 INFO  HomePage :44 - Mouser hover on tops<br>
+2023-05-16 00:05:562 INFO  WomenPage :34 - Click on jackets
+2023-05-16 00:05:360 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-16 00:05:885 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-16 00:05:241 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-16 00:05:323 INFO  GearPage :76 - Click on Bags<br>
+2023-05-16 00:05:506 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 00:05:675 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 00:05:131 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (6a5fd0840b27ec0b30e8a07161bba1a4)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 00:05:257 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 00:05:755 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (6a5fd0840b27ec0b30e8a07161bba1a4)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:480 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:566 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (6a5fd0840b27ec0b30e8a07161bba1a4)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 00:05:62 INFO  GearPage :172 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (6a5fd0840b27ec0b30e8a07161bba1a4)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 00:05:141 INFO  GearPage :180 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 00:05:966 INFO  GearPage :190 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (6a5fd0840b27ec0b30e8a07161bba1a4)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 00:05:249 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-16 00:05:411 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-16 00:05:463 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-16 00:05:629 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:707 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-16 00:05:770 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-16 00:05:931 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:865 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (67cc878e9323f1a10c58441b4ba3c154)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:680 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:641 INFO  HomePage :64 - Mouse hoover on women menu<br>
+2023-05-16 00:05:802 INFO  HomePage :73 - Mouse hoover on men menu<br>
+2023-05-16 00:05:869 INFO  MenPage :33 - Click on Pants : <br>
+2023-05-16 00:05:47 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:116 INFO  ProductBottomPage :45 - Mouse Hover on product name Cronus Yoga Pant and click on size 32.:<br>
+2023-05-16 00:05:177 INFO  ProductBottomPage :53 - Mouse Hover on product name ‘Cronus Yoga Pant’ and click on colour Black.<br>
+2023-05-16 00:05:349 INFO  MenPage :53 - Mouse Hover on product name Cronus Yoga Pant and click on ‘Add To Cart’ Button.<br>
+2023-05-16 00:05:330 INFO  ProductBottomPage :72 - Verify the text You added Cronus Yoga Pant to your shopping cart.[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 00:05:920 INFO  ProductBottomPage :61 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 00:05:969 INFO  ShoppingCartPage :45 - Verify the text ‘Shopping Cart.'[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //span[text()='Shopping Cart']]<br>
+2023-05-16 00:05:06 INFO  ShoppingCartPage :55 - Verify the product name ‘Cronus Yoga Pant’[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //td[@class='col item']//a[normalize-space()='Cronus Yoga Pant']]<br>
+2023-05-16 00:05:35 INFO  ShoppingCartPage :65 - Verify the product size ‘32’[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //dd[contains(text(),'32')]]<br>
+2023-05-16 00:05:68 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //dd[contains(text(),'Black')]]<br>
+2023-05-16 00:05:686 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-16 00:05:523 INFO  HomePage :36 - Mouse Hover on Women menu<br>
