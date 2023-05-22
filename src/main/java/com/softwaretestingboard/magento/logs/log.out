@@ -302,3 +302,12 @@
 2023-05-16 00:05:68 INFO  ShoppingCartPage :75 - Verify the product colour ‘Black’[[ChromeDriver: chrome on WINDOWS (be7ebaf7f3227434f7a0363f02ce0288)] -> xpath: //dd[contains(text(),'Black')]]<br>
 2023-05-16 00:05:686 INFO  HomePage :36 - Mouse Hover on Women menu<br>
 2023-05-16 00:05:523 INFO  HomePage :36 - Mouse Hover on Women menu<br>
+2023-05-23 00:05:199 INFO  HomePage :89 - Mouse hoover on gear menu<br>
+2023-05-23 00:05:316 INFO  GearPage :76 - Click on Bags<br>
+2023-05-23 00:05:585 INFO  GearPage :84 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-23 00:05:626 INFO  GearPage :94 - Verify the text ‘Overnight Duffle’<br>
+2023-05-23 00:05:790 INFO  GearPage :106 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (f9e69275098fea8b0ef76d2e39a337a4)] -> xpath: //input[@id='qty']]<br>
+2023-05-23 00:05:858 INFO  GearPage :114 - Click on ‘Add to Cart’ Button.<br>
+2023-05-23 00:05:477 INFO  GearPage :124 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (f9e69275098fea8b0ef76d2e39a337a4)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-23 00:05:122 INFO  GearPage :132 - Click on ‘shopping cart’ Link into message<br>
+2023-05-23 00:05:154 INFO  GearPage :152 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (f9e69275098fea8b0ef76d2e39a337a4)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
